@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741668870740",
+    "firebase_url": "https://responsi-3a240.firebaseio.com",
+    "project_id": "responsi-3a240",
+    "storage_bucket": "responsi-3a240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741668870740:android:bc20b71624d1218c4f2bc1",
+        "android_client_info": {
+          "package_name": "com.praktikum.responsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741668870740-1gcq8tfvkss3r2jnc5jq66elfmjfe5vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd1bKGmmdBi8a_pnfroeuDMy8F2QCk2no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741668870740-1gcq8tfvkss3r2jnc5jq66elfmjfe5vr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
